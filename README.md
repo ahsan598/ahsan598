@@ -22,13 +22,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  I'm a DevOps Engineer passionate about Automation, Security, and Building Resilient Cloud-Native Systems.</h3>
+<h3 align="left">👨‍💻 I'm a DevOps Engineer passionate about Automation, Security, and Cloud-Native Resilience.</h3>
 
 - 🔭 Currently working on **DevSecOps** projects  
-- 👯 Open to collaborating with **Devs** from all backgrounds
-- 💬 Ask me about Anything related to **DevOps practices**
-- ⚡ I believe: _“**Security should be built in, not bolted on**.”_ 🔐
-- 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
+- 🤝 Open to collaborating with **developers** from all backgrounds  
+- 💬 Ask me anything about **DevOps & Cloud Practices**  
+- 🔐 Believer in: _“Security should be built in, not bolted on.”_  
+- 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
