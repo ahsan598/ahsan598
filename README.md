@@ -27,8 +27,8 @@
 - 🔭 Currently working on **DevSecOps** projects  
 - 👯 Open to collaborating with **Devs** from all backgrounds
 - 💬 Ask me about Anything related to **DevOps practices**
-- ⚡ I believe: _“Security should be built in, not bolted on.”_ 🔐
-- 😄 Pronunciation tip: It's **Ahsan / Ehsan** — not Aahsan, Ishaan, or Ashaan 😉
+- ⚡ I believe: _“**Security should be built in, not bolted on**.”_ 🔐
+- 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,7 +58,7 @@
 <img width="12" />
 
 <!-- Ansible -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
 <img width="12" />
 
 <!-- Jenkins -->
@@ -104,7 +104,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&locale=en" alt="ahsan598" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan598&" alt="ahsan598" /></p>
 
 ---
-### Thanks for dropping by — feel free to connect or collaborate!
+### 🏅 Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d0d2c32f-a56c-4c08-bb2d-e259a7bf16ae/public_url)
+[![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d39f3ca1-9fb4-4805-9abe-4fe59ed3f479/public_url)
+
