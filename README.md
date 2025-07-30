@@ -27,7 +27,7 @@
 - 🔭 Currently working on **DevSecOps** projects  
 - 🤝 Open to collaborating with **developers** from all backgrounds  
 - 💬 Ask me anything about **DevOps & Cloud Practices**  
-- 🔐 Believer in: _“Security should be built in, not bolted on.”_  
+- 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
 - 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
 
 <br>
