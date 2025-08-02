@@ -25,7 +25,7 @@
 <h3 align="left">👨‍💻 I'm a DevOps Engineer passionate about Automation, Security, and Cloud-Native Resilience.</h3>
 
 - 🔭 Currently working on **DevSecOps** projects  
-- 🤝 Open to collaborating with **developers** from all backgrounds  
+- 🤝 Open to collaborate with other **Devs**  
 - 💬 Ask me anything about **DevOps & Cloud Practices**  
 - 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
 - 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
@@ -97,7 +97,7 @@
 <!-- NGINX -->
 <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
 </div>
-</br>
+<br>
 
 <h3 align="left">GitHub Stats:</h3>
 
@@ -105,10 +105,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&locale=en" alt="ahsan598" /></p>
 
-
 ---
+
 ### 🏅 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d0d2c32f-a56c-4c08-bb2d-e259a7bf16ae/public_url)
 [![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d39f3ca1-9fb4-4805-9abe-4fe59ed3f479/public_url)
-
