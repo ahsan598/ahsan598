@@ -3,8 +3,6 @@
 </div>
 
 
-###
-
 <div align="center">
 <a href="mailto:mdahsan060@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
@@ -17,21 +15,18 @@
 </a>
 </div>
 
-###
 
 <h1 align="center">Hey there 👋, I'm Mohammed Ahsan</h1>
 
-###
-
-<h3 align="left">👨‍💻 I'm a DevOps Engineer passionate about Automation, Security, and Cloud-Native Resilience.</h3>
-
-- 🔭 Currently working on **DevSecOps** projects  
-- 🤝 Open to collaborate with other **Devs**  
-- 💬 Ask me anything about **DevOps & Cloud Practices**  
-- 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
-- 😄 Fun fact: I treat my **secrets** better than my **passwords** 😉
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I’m a DevOps Engineer passionate about automation, security, and cloud-native resilience.
+- 🔭 Currently working on DevSecOps projects  
+- 🤝 Open to collaborate with other Devs 
+- 💬 Ask me anything about DevOps & cloud practices 
+- 🔐 Believer in: _“Security should be built in, not bolted on.”_  
+- ⚡ Fun fact: I treat my secrets better than my passwords 😉
 <br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -98,12 +93,12 @@
 <!-- NGINX -->
 <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
 </div>
+
 <br>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan598&show_icons=true&locale=en&layout=compact" alt="ahsan598" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&locale=en" alt="ahsan598" /></p>
 
 ---
