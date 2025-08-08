@@ -19,12 +19,12 @@
 <h1 align="center">Hey there 👋, I'm Mohammed Ahsan</h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I’m a DevOps Engineer passionate about automation, security, and cloud-native resilience.
-- 🔭 Currently working on DevSecOps projects  
-- 🤝 Open to collaborate with other Devs 
-- 💬 Ask me anything about DevOps & cloud practices 
-- 🔐 Believer in: _“Security should be built in, not bolted on.”_  
-- ⚡ Fun fact: I treat my secrets better than my passwords 😉
+- 🏦 I’m a **DevOps Engineer** passionate about **automation, security**, and **cloud-native resilience**.
+- 🔭 Currently working on **DevSecOps** projects  
+- 🤝 Open to collaborate with other **Devs** 
+- 💬 Ask me anything about **DevOps & Cloud** practices 
+- 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
+- ⚡ Fun fact: I treat my **secrets** better than my **passwords** 😉
 <br>
 
 
