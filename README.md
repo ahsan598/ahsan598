@@ -19,12 +19,11 @@
 <h1 align="center">Hey there 👋, I'm Mohammed Ahsan</h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I’m a **DevOps Engineer** passionate about **automation, security**, and **cloud-native resilience**.
-- 🔭 Currently working on **DevSecOps** projects  
+- 🏦 I’m a **Platform Engineer** passionate about **automation, security**, and **cloud-native resilience**.
+- 🔭 Currently working on **Infrastructure** projects  
 - 🤝 Open to collaborate with other **Devs** 
 - 💬 Ask me anything about **DevOps & Cloud** practices 
 - 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
-- ⚡ Fun fact: I treat my **secrets** better than my **passwords** 😉
 <br>
 
 
@@ -47,15 +46,15 @@
 <img width="12" />
 
 <!-- Azure -->
-<img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
-<img width="12" />
+<!-- <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+<img width="12" /> -->
 
 <!-- Terraform -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
 <img width="12" />
 
 <!-- Ansible -->
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
+<img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
 <img width="12" />
 
 <!-- Jenkins -->
@@ -71,8 +70,16 @@
 <img width="12" />
 
 <!-- Grafana -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<img width="12" /> -->
+
+<!-- Datadog -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
 <img width="12" />
+
+<!-- Prometheus -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+<img width="12" /> -->
 
 <!-- Bash -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
@@ -87,12 +94,16 @@
 <img width="12" />
 
 <!-- Go -->
-<img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo" />
-<img width="12" />
+<!-- <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo" />
+<img width="12" /> -->
 
 <!-- NGINX -->
 <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
-</div>
+<img width="12" />
+
+<!-- HashiCorp Vault -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo" />
+<img width="12" />
 
 <br>
 
