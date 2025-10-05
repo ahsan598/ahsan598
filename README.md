@@ -70,12 +70,12 @@
 <img width="12" />
 
 <!-- Grafana -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-<img width="12" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<img width="12" />
 
 <!-- Datadog -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
-<img width="12" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
+<img width="12" /> -->
 
 <!-- Prometheus -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
@@ -102,8 +102,8 @@
 <img width="12" />
 
 <!-- HashiCorp Vault -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo" />
-<img width="12" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo" />
+<img width="12" /> -->
 
 <br>
 
