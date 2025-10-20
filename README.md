@@ -112,9 +112,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan598&show_icons=true&locale=en&layout=compact" alt="ahsan598" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&locale=en" alt="ahsan598" /></p>
 
----
 
-### 🏅 Certifications
+<!-- ### 🏅 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d0d2c32f-a56c-4c08-bb2d-e259a7bf16ae/public_url)
-[![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d39f3ca1-9fb4-4805-9abe-4fe59ed3f479/public_url)
+[![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d39f3ca1-9fb4-4805-9abe-4fe59ed3f479/public_url)-->
