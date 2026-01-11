@@ -1,29 +1,33 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+<!-- Profile Stats with Glassmorphism Cards -->
+<table>
+  <tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/ROLE-DevSecOps%20Engineer-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+  </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20Years-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BLOGS-Medium-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+---
 
-<div align="center">
-<a href="mailto:mdahsan060@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
-<a href="https://www.linkedin.com/in/ahsan12" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
-<a href="https://ahsan598.github.io/digital-resume/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-</a>
-</div>
-
-
-<h1 align="center">Hey there 👋, I'm Mohammed Ahsan</h1>
+<!-- <h1 align="center">Hey there 👋, I'm Mohammed Ahsan</h1> -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I’m a **Platform Engineer** passionate about **automation, security**, and **cloud-native resilience**.
-- 🔭 Currently working on **Infrastructure** projects  
-- 🤝 Open to collaborate with other **Devs** 
-- 💬 Ask me anything about **DevOps & Cloud** practices 
-- 🔐 Believer in: _“**Security should be built in, not bolted on**.”_  
+- 🏦 **DevSecOps Engineer** focused on building **secure, automated, and scalable cloud systems**
+- 🔭 Actively developing projects in **DevOps, Cloud, and Infrastructure Engineering**
+- 🤝 Open to collaborating on **open-source, cloud, and automation projects**
+- 💬 Happy to discuss **DevOps, Cloud Architecture, CI/CD, Containers and Infrastructure as Code**
+- 🔐 _“**Security isn’t an afterthought — it’s the foundation.**”_ 
 <br>
 
 
@@ -107,10 +111,23 @@
 
 <br>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan598&show_icons=true&locale=en&layout=compact" alt="ahsan598" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&locale=en" alt="ahsan598" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahsan598&layout=compact&theme=tokyonight" height="160"/>
+
+  <img src="https://metrics.lecoq.io/ahsan598?template=classic&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia/Delhi"/>
+</p>
+
+---
+
+### 💬 Open for Opportunities
+
+**`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Kubernetes Admin`**
+
+
+
 
 
 <!-- ### 🏅 Certifications
