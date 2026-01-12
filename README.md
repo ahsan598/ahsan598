@@ -111,14 +111,14 @@
 
 <br>
 
-<h3 align="left">GitHub Stats</h3>
-
+<!-- <h3 align="left">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahsan598&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan598&layout=compact&theme=tokyonight" height="160"/>
+</p> -->
 
-  <img src="https://metrics.lecoq.io/ahsan598?template=classic&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia/Delhi"/>
-</p>
+### GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=ahsan598&theme=dark&hide_border=false)
 
 ---
 
