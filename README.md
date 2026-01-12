@@ -29,8 +29,7 @@
 - 🤝 Open to collaborating on **open-source, cloud, and automation initiatives**
 - 💬 Happy to discuss **DevOps, Cloud Architecture, CI/CD, Containers, and Infrastructure as Code**
 - 🔐 _“**Security isn’t an afterthought — it’s the foundation.**”_
- 
-<br>
+
 
 <!-- Skills Section -->
 
@@ -113,7 +112,6 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo" />
 <img width="12" /> -->
 
-<br>
 
 <!-- Git Stats Section -->
 
