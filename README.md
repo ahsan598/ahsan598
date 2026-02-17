@@ -121,8 +121,8 @@
 <h3 align="left">GitHub Analytics</h3>
 <p align="left">
   <a href="https://github.com/ahsan598">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160em" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsan598&layout=compact&langs_count=8&theme=tokyonight" height="160em" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsan598&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
   </a>
 </p>
 
