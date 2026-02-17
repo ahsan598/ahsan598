@@ -8,14 +8,13 @@
         <img src="https://img.shields.io/badge/ROLE-DevSecOps%20Engineer-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20Years-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
+        <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20Years-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/FOCUS-Cloud%20%26%20DevOps-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
       </td>
     </tr>
   </table>
-
 </div>
 
 ---
@@ -33,7 +32,7 @@
 
 <!-- Skills Section -->
 
-<h3 align="left">Cloud & DevOps Stack</h3>
+<h3 align="left">DevOps Stack</h3>
 <div align="left">
 
 <!-- Git -->
@@ -76,12 +75,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
 <img width="12" />
 
-<!-- Grafana -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<!-- Datadog -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
 <img width="12" />
 
-<!-- Datadog -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40" alt="datadog logo" />
+<!-- Grafana -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
 <img width="12" /> -->
 
 <!-- Prometheus -->
@@ -115,19 +114,18 @@
 
 <!-- Git Stats Section -->
 
-<!-- <h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan598&layout=compact&theme=tokyonight" height="160"/>
-</p> -->
+<h3 align="left">GitHub Stats</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<h3 align="left"> GitHub Stats</h3>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahsan598&theme=tokyonight&hide_border=true"/>
+<h3 align="left">GitHub Analytics</h3>
+<p align="left">
+  <a href="https://github.com/ahsan598">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsan598&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200em" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsan598&layout=compact&langs_count=8&theme=tokyonight" height="200em" />
+  </a>
 </p>
 
-<br>
 
 <!-- Certifications Section -->
 
@@ -135,11 +133,3 @@
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d0d2c32f-a56c-4c08-bb2d-e259a7bf16ae/public_url)
 [![AWS Certified Solutions Architect](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d39f3ca1-9fb4-4805-9abe-4fe59ed3f479/public_url) -->
-
----
-
-<!-- Opportunities Section -->
-
-<h3 align="left">Open for Opportunities</h3>
-
-**Senior DevOps Engineer · Platform Engineering · Site Reliability Engineering · Cloud Architecture · Kubernetes Administration**
